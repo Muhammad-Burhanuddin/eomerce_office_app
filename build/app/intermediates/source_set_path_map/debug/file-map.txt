@@ -1,0 +1,13 @@
+com.example.ecomerance_app-core-1.6.0-0 C:\Users\burha\.gradle\caches\transforms-3\3a2f4d98b3b6404c1fa5be33c6d33808\transformed\core-1.6.0\res
+com.example.ecomerance_app-jetified-window-1.0.0-beta04-1 C:\Users\burha\.gradle\caches\transforms-3\3fc6841a625c2f6f798513da4342f64b\transformed\jetified-window-1.0.0-beta04\res
+com.example.ecomerance_app-jetified-window-java-1.0.0-beta04-2 C:\Users\burha\.gradle\caches\transforms-3\5b1943f6022f031876b1bcc4cd6f58e6\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.ecomerance_app-jetified-annotation-experimental-1.1.0-3 C:\Users\burha\.gradle\caches\transforms-3\f3b777a6e3202e8f617aa95a18bb10d0\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.ecomerance_app-debug-4 D:\ecomerance_app\android\app\src\debug\res
+com.example.ecomerance_app-main-5 D:\ecomerance_app\android\app\src\main\res
+com.example.ecomerance_app-pngs-6 D:\ecomerance_app\build\app\generated\res\pngs\debug
+com.example.ecomerance_app-resValues-7 D:\ecomerance_app\build\app\generated\res\resValues\debug
+com.example.ecomerance_app-rs-8 D:\ecomerance_app\build\app\generated\res\rs\debug
+com.example.ecomerance_app-mergeDebugResources-9 D:\ecomerance_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.ecomerance_app-mergeDebugResources-10 D:\ecomerance_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.ecomerance_app-merged_res-11 D:\ecomerance_app\build\app\intermediates\merged_res\debug
+com.example.ecomerance_app-packaged_res-12 D:\ecomerance_app\build\flutter_keyboard_visibility\intermediates\packaged_res\debug
